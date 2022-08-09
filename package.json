@@ -1,0 +1,27 @@
+{
+  "name": "ern-movie-list-guide-api-impl-js",
+  "version": "0.0.5",
+  "author": "GTP mobile",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "react-native": "0.60.5"
+  },
+  "dependencies": {
+    "ern-movie-list-demo-api": "1.0.x"
+  },
+  "ern": {
+    "containerGen": {
+      "hasConfig": false,
+      "moduleName": "ern-movie-list-guide-api-impl-js",
+      "apiNames": [
+        "WalmartItem"
+      ]
+    },
+    "moduleType": "ern-js-api-impl"
+  },
+  "keywords": [
+    "ern-js-api-impl"
+  ],
+  "repository": "https://github.com/ERN-demo-api/ern-movie-list-guide-api-impl-js"
+}
